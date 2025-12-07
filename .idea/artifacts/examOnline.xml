@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="examOnline">
+    <output-path>$PROJECT_DIR$/out/artifacts/examOnline</output-path>
+    <root id="archive" name="examOnline.war">
+      <element id="javaee-facet-resources" facet="examonline-master/web/Web" />
+      <element id="artifact" artifact-name="examonline-master:Web exploded" />
+    </root>
+  </artifact>
+</component>
