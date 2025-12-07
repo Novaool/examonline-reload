@@ -5,8 +5,8 @@
 
 任何建议欢迎邮件联系。
 
-- 邮箱：18302087427@163.com
-- Github：https://github.com/acrx016
+- 邮箱：2416606859@qq.com
+- Github：https://github.com/Novaool/
 
 
 ## 目录
